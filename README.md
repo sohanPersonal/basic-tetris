@@ -1,5 +1,5 @@
 # basic-tetris
-The basic tetris game
-This is an implementation of the basic tetris games using JS
+The basic tetris game.
+This is an implementation of the basic tetris games using JS.
 I have reffered to freecodecamp and the tutorial provided by
-Ania Kubow to implement it
+Ania Kubow to implement it.
